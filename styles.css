@@ -1,0 +1,16 @@
+
+#jsonResults {
+    font-weight: bold;
+}
+
+#md5Results {
+    font-weight: bold;
+}
+
+.success {
+    color: green;
+}
+
+.fail {
+    color: red;
+}
